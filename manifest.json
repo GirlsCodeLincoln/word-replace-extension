@@ -3,6 +3,9 @@
     "name": "[your extension name here]",
     "description": "[your extension description here]",
     "version": "1.0",
+    "icons" : {
+        "16" : "swap-icon.png"
+    },
     "content_scripts": [
         {
             "matches": [
